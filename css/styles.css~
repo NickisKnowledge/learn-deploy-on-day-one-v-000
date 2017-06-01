@@ -4806,7 +4806,10 @@ a:visited {
 }
 
 #z-drake-cover {
-  background-image: url("http://i.imgur.com/1daNCO6.jpg")
+  background-image: url("http://i.imgur.com/1daNCO6.jpg");
+  /*background-image: url("http://i.imgur.com/XLnSdI4.jpg");
+  background-image: url("http://i.imgur.com/uQCdjEe.jpg")
+  background-image: url("http://i.imgur.com/LGxivot.jpg")*/
 }
 
 #z-drake-card {
